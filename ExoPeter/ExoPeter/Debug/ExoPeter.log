@@ -1,0 +1,7 @@
+﻿  Main.c
+C:\Users\ehamida\source\repos\ExoPeter\ExoPeter\Main.c(392,11): warning C4477: 'scanf_s' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'int *'
+C:\Users\ehamida\source\repos\ExoPeter\ExoPeter\Main.c(392,11): message : cet argument est utilisé par un spécificateur de conversion
+C:\Users\ehamida\source\repos\ExoPeter\ExoPeter\Main.c(410,15): warning C4474: 'scanf_s' : trop d'arguments passés pour la chaîne de format
+C:\Users\ehamida\source\repos\ExoPeter\ExoPeter\Main.c(410,15): message : les espaces réservés et leurs paramètres attendent des arguments 0 variadiques, mais des arguments 1 ont été fournis
+C:\Users\ehamida\source\repos\ExoPeter\ExoPeter\Main.c(407,22): warning C4305: 'initialisation' : troncation de 'int' à 'char'
+C:\Users\ehamida\source\repos\ExoPeter\ExoPeter\Main.c(404): error C4700: variable locale 'info' non initialisée utilisée

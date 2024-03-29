@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExoPeter", "ExoPeter\ExoPeter.vcxproj", "{DF2CB660-95C1-40AF-999A-A0D40C0E842E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF2CB660-95C1-40AF-999A-A0D40C0E842E}.Debug|x64.ActiveCfg = Debug|x64
+		{DF2CB660-95C1-40AF-999A-A0D40C0E842E}.Debug|x64.Build.0 = Debug|x64
+		{DF2CB660-95C1-40AF-999A-A0D40C0E842E}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF2CB660-95C1-40AF-999A-A0D40C0E842E}.Debug|x86.Build.0 = Debug|Win32
+		{DF2CB660-95C1-40AF-999A-A0D40C0E842E}.Release|x64.ActiveCfg = Release|x64
+		{DF2CB660-95C1-40AF-999A-A0D40C0E842E}.Release|x64.Build.0 = Release|x64
+		{DF2CB660-95C1-40AF-999A-A0D40C0E842E}.Release|x86.ActiveCfg = Release|Win32
+		{DF2CB660-95C1-40AF-999A-A0D40C0E842E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB734F84-7014-4841-989A-C603AC2A099F}
+	EndGlobalSection
+EndGlobal
